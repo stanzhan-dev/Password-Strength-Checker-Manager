@@ -2,7 +2,7 @@
 
 A simple Python GUI app to **check password strength**, **generate strong passwords**, and **keep a history** of the last 5 passwords you’ve used.
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](screenshot.jpg)
 
 ---
 
