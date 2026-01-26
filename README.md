@@ -27,11 +27,10 @@ No extra packages required.
 ---
 
 ## How to Run
-
 1. Clone or download this repository.  
 2. Open a terminal in the project folder.  
 3. Run the Python script:
 ```
-```bash
-python passwordstrengthv2.py
+git clone https://github.com/stanzhan-dev/Password-Strength-Checker-Manager
+python main.py
 ```
