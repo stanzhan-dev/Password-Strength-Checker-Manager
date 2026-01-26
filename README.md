@@ -34,3 +34,5 @@ No extra packages required.
 git clone https://github.com/stanzhan-dev/Password-Strength-Checker-Manager
 python main.py
 ```
+
+Alternatively, you can go to my releases and download the .exe file to run without you to have python installed.
